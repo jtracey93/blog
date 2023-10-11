@@ -28,21 +28,13 @@ disqusShortname = "jacktraceyblogprod"
     title = "**Buy Me A Coffee**"
     url = "https://www.buymeacoffee.com/jacktracey"
     weight = -105
-
+ 
   [[menu.main]]
-    identifier = "saug-youtube"
-    name = "Sussex Azure User Group - YouTube"
-    title = "Sussex Azure User Group - Youtube"
-    url = "https://aka.ms/saugyoutube"
-    weight = -100
-  
-  [[menu.main]]
-    identifier = "saug-podcast"
-    name = "Sussex Azure User Group - Podcast"
-    title = "Sussex Azure User Group - Podcast"
-    url = "https://podcast.sussexazure.uk"
+    identifier = "saug-meetups"
+    name = "Sussex Azure User Group - Meetups"
+    title = "Sussex Azure User Group - Meetups"
+    url = "https://aka.ms/saugmeetup"
     weight = -101
-
 
 [Author] # Used in authorbox
   name = "Jack Tracey"
@@ -79,8 +71,13 @@ disqusShortname = "jacktraceyblogprod"
   github = "jtracey93"
 
 [[Params.widgets.social.custom]]
-  title = "Youtube"
+  title = "My YouTube"
   url = "https://youtube.com/channel/UCCD_hmZNDo0rK0Vx5yD8U9g"
+  icon = "youtube.svg" # Optional. Path relative to "layouts/partials"
+
+[[Params.widgets.social.custom]]
+  title = "Sussex Azure User Group's YouTube"
+  url = "https://aka.ms/saugyoutube"
   icon = "youtube.svg" # Optional. Path relative to "layouts/partials"
 
 [[Params.widgets.social.custom]]
