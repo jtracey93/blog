@@ -12,7 +12,7 @@ twitter:
   site: "@Jack_Ref"
   title: "AzGovViz With Azure DevOps"
   description: "I walk you through how to setup AzGovViz in Azure DevOps to automatically gather all your Azure governance data on a schedule!"
-  image: "https://jacktracey.co.uk/img/thumbs/azgovviz-thumb.png"
+  image: "https://jacktracey.co.uk/blog/img/thumbs/azgovviz-thumb.png"
 ---
 ## Introduction
 

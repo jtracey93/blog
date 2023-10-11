@@ -11,7 +11,7 @@ twitter:
   site: "@Jack_Ref"
   title: "Azure Spring Clean 2020 - Azure Resource Graph"
   description: "Here is my supporting blog post entry for the Azure Spring Clean 2020 on the Azure Resource Graph!"
-  image: "https://jacktracey.co.uk/img/thumbs/spring-clean-day-11-thumb.jpg"
+  image: "https://jacktracey.co.uk/blog/img/thumbs/spring-clean-day-11-thumb.jpg"
 ---
 
 ![Spring Clean Day 11](/img/spring-clean-day-11.jpg)

@@ -11,7 +11,7 @@ twitter:
   site: "@Jack_Ref"
   title: "DNS Importance With WVD"
   description: "Explaining why your DNS server configuration on your clients is super important when connecting to WVD!"
-  image: "https://jacktracey.co.uk/img/thumbs/az-dns-thumb.png"
+  image: "https://jacktracey.co.uk/blog/img/thumbs/az-dns-thumb.png"
 ---
 So by now you've probably heard of WVD (Windows Virtual Desktop) as it's one of the fastest growing services in Azure, especially since it went GA back in September 2019!
 

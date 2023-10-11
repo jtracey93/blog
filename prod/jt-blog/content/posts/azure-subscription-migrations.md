@@ -12,7 +12,7 @@ twitter:
   site: "@Jack_Ref"
   title: "Azure Subscription Migrations"
   description: "Ever been tasked with working out how to migrate resources between subscriptions? This is the blog post for you!"
-  image: "https://jacktracey.co.uk/img/thumbs/migration-thumb.png"
+  image: "https://jacktracey.co.uk/blog/img/thumbs/migration-thumb.png"
 ---
 # Version History
 ## December 2021 - Update

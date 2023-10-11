@@ -11,7 +11,7 @@ twitter:
   site: "@Jack_Ref"
   title: "Azure Portal Directory Level Timeout"
   description: "A new feature release to the Azure Portal that you probably want to get configured ASAP to help improve your security!"
-  image: "https://jacktracey.co.uk/img/thumbs/hourglass-thumb.jpg"
+  image: "https://jacktracey.co.uk/blog/img/thumbs/hourglass-thumb.jpg"
 ---
 
 Ever left yourself logged into the Azure portal for the entire day and wondered why your session hasn't expired?

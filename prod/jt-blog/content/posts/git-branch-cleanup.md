@@ -12,7 +12,7 @@ twitter:
   site: "@Jack_Ref"
   title: "Cleaning Up Git Branches"
   description: "Ever wondered how to clean up the git branches on your local clone of a repo when using squash merges, then this blog is for you!"
-  image: "https://jacktracey.co.uk/img/thumbs/squash-branch-merge-thumb.png"
+  image: "https://jacktracey.co.uk/blog/img/thumbs/squash-branch-merge-thumb.png"
 ---
 
 ## Introduction

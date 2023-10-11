@@ -12,7 +12,7 @@ twitter:
   site: "@Jack_Ref"
   title: "Terraform With Azure DevOps"
   description: "Want to setup Azure DevOps to orchestrate your Terraform deployments to Azure? Then this is the blog post for you!"
-  image: "https://jacktracey.co.uk/img/thumbs/tf-azdo-thumb.png"
+  image: "https://jacktracey.co.uk/blog/img/thumbs/tf-azdo-thumb.png"
 ---
 ## Introduction
 

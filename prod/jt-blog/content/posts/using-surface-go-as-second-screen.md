@@ -11,7 +11,7 @@ twitter:
   site: "@Jack_Ref"
   title: "Using My Surface Go As A Second Screen"
   description: "Working from home and need another screen? Or wanting to get a change of scenery from your normal home desk but need that second screen? This article is for you!"
-  image: "https://jacktracey.co.uk/img/thumbs/sfgo-screen-thumb.jpeg"
+  image: "https://jacktracey.co.uk/blog/img/thumbs/sfgo-screen-thumb.jpeg"
 ---
 
 So with the UK in lockdown due to COVID-19 along with the majority of the world, working from home is becoming the new normal for a lot of us. 

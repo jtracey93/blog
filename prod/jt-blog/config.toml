@@ -1,4 +1,4 @@
-baseURL = "https://jacktracey.co.uk"
+baseURL = "https://jacktracey.co.uk/blog"
 languageCode = "en-us"
 paginate = "12"
 title = "Jack Tracey - Cloud & Networking"

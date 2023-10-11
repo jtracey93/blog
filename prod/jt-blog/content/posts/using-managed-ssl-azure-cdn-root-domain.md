@@ -11,7 +11,7 @@ twitter:
   site: "@Jack_Ref"
   title: "Using a Managed SSL Certificate with Azure CDN (Microsoft) on a Root/Apex Domain"
   description: "In this post I’ll explain how I managed to get Azure CDN to create and manage the SSL certificate for my root/apex domain"
-  image: "https://jacktracey.co.uk/img/thumbs/ssl-thumb.jpg"
+  image: "https://jacktracey.co.uk/blog/img/thumbs/ssl-thumb.jpg"
 ---
 
 Now you may be reading the title of this post and thinking I’ve gone mad as the [Microsoft Docs pages](https://docs.microsoft.com/en-us/azure/cdn/cdn-custom-ssl?tabs=option-1-default-enable-https-with-a-cdn-managed-certificate#prerequisites) saying this isn’t something you can do!

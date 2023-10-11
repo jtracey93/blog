@@ -11,6 +11,6 @@ twitter:
   site: "@Jack_Ref"
   title: "{{ replace .Name "-" " " | title }}"
   description: "CHANGE ME"
-  image: "https://jacktracey.co.uk/img/thumbs/CHANGME.jpg"
+  image: "https://jacktracey.co.uk/blog/img/thumbs/CHANGME.jpg"
 ---
 
