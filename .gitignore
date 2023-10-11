@@ -1,0 +1,3 @@
+# Ignore 'public' folders
+prod/jt-blog/public
+dev/jt-blog/public

@@ -1,0 +1,104 @@
+baseURL = "https://jacktracey.co.uk"
+languageCode = "en-us"
+paginate = "12"
+title = "Jack Tracey - Cloud & Networking"
+theme = "mainroad"
+googleAnalytics = "UA-155333889-1"
+disqusShortname = "jacktraceyblogprod"
+
+[menu]
+
+   [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    title = "Home"
+    url = "/"
+    weight = -120
+  
+  [[menu.main]]
+    identifier = "about-me"
+    name = "About Me"
+    title = "About Me"
+    url = "/about-me/"
+    weight = -115
+
+  [[menu.main]]
+    identifier = "buy-me-a-coffee"
+    name = "**Buy Me A Coffee**"
+    title = "**Buy Me A Coffee**"
+    url = "https://www.buymeacoffee.com/jacktracey"
+    weight = -105
+
+  [[menu.main]]
+    identifier = "saug-youtube"
+    name = "Sussex Azure User Group - YouTube"
+    title = "Sussex Azure User Group - Youtube"
+    url = "https://aka.ms/saugyoutube"
+    weight = -100
+  
+  [[menu.main]]
+    identifier = "saug-podcast"
+    name = "Sussex Azure User Group - Podcast"
+    title = "Sussex Azure User Group - Podcast"
+    url = "https://podcast.sussexazure.uk"
+    weight = -101
+
+
+[Author] # Used in authorbox
+  name = "Jack Tracey"
+  bio = "Jack is a Senior Cloud Solutions Architect @ Microsoft & a former Microsoft Azure MVP based near Brighton in the UK."
+  avatar = "img/jtpics/jt-az-oxford-crop.jpg"
+
+[Params]
+  subtitle = "Cloud & Networking"
+  copyright = "Jack Tracey"
+  twitter_cards = false
+  readmore = true
+  authorbox = true
+  post_meta = ["date", "categories"]
+  dateformat = "02-01-2006"
+  highlightColor = "#ea9653"
+  mathjax = true # Enable MathJax
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
+ 
+[Params.sidebar]
+  home = "left" # Configure layout for home page
+  list = false  # Configure layout for list pages
+  single = false # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["recent", "social", "categories", "taglist" ]
+
+[Params.widgets]
+  recent_num = 4 # Set the number of articles in the "Recent articles" widget
+  tags_counter = true # Enable counter for each tag in "Tags" widget
+
+[Params.widgets.social]
+  twitter = "Jack_Ref"
+  linkedin = "jacktracey93"
+  github = "jtracey93"
+
+[[Params.widgets.social.custom]]
+  title = "Youtube"
+  url = "https://youtube.com/channel/UCCD_hmZNDo0rK0Vx5yD8U9g"
+  icon = "youtube.svg" # Optional. Path relative to "layouts/partials"
+
+[[Params.widgets.social.custom]]
+  title = "RSS"
+  url = "/index.xml"
+  icon = "rss.svg" # Optional. Path relative to "layouts/partials"
+
+[permalinks]
+  posts = "/:title/"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = true
+    style = "dracula"
+    tabWidth = 4
