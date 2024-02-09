@@ -23,27 +23,6 @@ twitter:
 > 
 > Please treat these as a source of truth going forward. However, I will try to keep this page up-to-date also!
 
-## September 2021 - Update
-
-> Have updated some of the table to reflect some recent learnings regarding MCAs
-
-## October 2020 - Update
-
-> - [Version 10 of the Azure Resource Migration Support Tool ](https://jtjsacpublic.blob.core.windows.net/blogsharedfiles/AzureResourceMigrationSupportV10.xlsx)
-
-## September 2020 - Update
-
-> - Another update as this blog post is an ever changing beast!
-> - CSP V2 (aka Azure Plan) to CSP V2 (aka Azure Plan) notes updated - **Now with link to preview process/tooling!**
-> - [Version 9 of the Azure Resource Migration Support Tool ](https://jtjsacpublic.blob.core.windows.net/blogsharedfiles/AzureResourceMigrationSupportV9.xlsx)
-> 
-## April 2020 - Update
-
-> Since I originally created this blog post back in January 2019 there have been a fair few changes, especially in the EA to CSP migration space. 
-> So I thought it was about time that I gave this article a bit of a refresh! 
-> A lot of the content is still valid and applicable, but there are a few changes that I need include here now!
-> Enjoy!!
-
 # Introduction
 
 Recently I have had an abundance of requests from our regarding Azure Subscription migrations. Whether it be from PAYG (Pay-As-You-Go) to CSP, EA to CSP, CSP to PAYG, EA to MCA, MCA to CSP or just PAYG to PAYG.
@@ -222,7 +201,7 @@ So that’s why I have created a handy Excel Workbook that does all the work in 
 
 I also thought it would be a shame not to share this tool so here it is available for any of you reading this to use for free!
 
-- [Azure Resource Migration Support Tool V10](https://jtjsacpublic.blob.core.windows.net/blogsharedfiles/AzureResourceMigrationSupportV10.xlsx)
+- [Azure Resource Migration Support Tool](https://jacktracey.co.uk/AzureResourceMigrationSupportV9.xlsx)
 
 All instructions on how to use the tool are on the “Intro Page” sheet within the workbook/spreadsheet.
 
