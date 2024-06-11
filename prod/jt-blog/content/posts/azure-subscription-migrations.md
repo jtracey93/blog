@@ -201,7 +201,7 @@ So that’s why I have created a handy Excel Workbook that does all the work in 
 
 I also thought it would be a shame not to share this tool so here it is available for any of you reading this to use for free!
 
-- [Azure Resource Migration Support Tool](https://jacktracey.co.uk/AzureResourceMigrationSupportV9.xlsx)
+- [Azure Resource Migration Support Tool](https://jacktracey.co.uk/AzureResourceMigrationSupportV10.xlsx)
 
 All instructions on how to use the tool are on the “Intro Page” sheet within the workbook/spreadsheet.
 
